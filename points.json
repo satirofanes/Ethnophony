@@ -1,0 +1,17 @@
+[
+  {
+    "title": "",
+    "lat": 27.89734922968426,
+    "lon": -101.40380859375001,
+    "description": "Ejemplo de entrada 1 en el mapa sonoro",
+    "audio": "media\\00-amuzgos-cerro-de-la-yerba-santa.mp3",
+    "template": "Paisaje sonoro",
+    "timestamp": "2026-05-10 04:04:45.307185",
+    "extra": {
+      "hora": "04:04 h",
+      "ambiente": "Madrugada",
+      "actividad": "Programando ",
+      "densidad_sonora": "Audible"
+    }
+  }
+]
